@@ -1,0 +1,40 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/** Default Page Theme **/
+$theme-default-primary:               #3AB0FF;
+$theme-default-secondary:             #FFB562;
+$theme-default-trinary:               #F87474;
+$theme-default-background:            #F9F2ED;
+$theme-default-text-color:            #323232;
+$theme-default-link-color:            #FFB562;
+$theme-default-hlink-color:           #F87474;
+$theme-default-vlink-color:           #FF8862;
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: $theme-default-text-color;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
+  background-color: $theme-default-background;
+  overflow-x: hidden;
+}
+
+.spacers { 
+ padding: 1rem; 
+}
+
+a {
+  color: $theme-default-link-color;
+}
+
+a:hover {
+  color: $theme-default-hlink-color;
+}
+
+a:visited {
+  color: $theme-default-vlink-color;
+}
