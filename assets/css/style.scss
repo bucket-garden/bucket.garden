@@ -79,7 +79,12 @@ header {
 
 }
 
-.status_active {
+.status_inactive {
   display: none;
+}
+
+.status_active {
+  width: 240px;
+  height: 56px;
 }
 
