@@ -11,7 +11,7 @@ $theme-default-background:            #F9F2ED;
 $theme-default-text-color:            #323232;
 $theme-default-link-color:            #FFB562;
 $theme-default-hlink-color:           #F87474;
-$theme-default-vlink-color:           #FF8862;
+$theme-default-vlink-color:           #FF8862; 
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -21,6 +21,8 @@ body {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-default-background;
   overflow-x: hidden;
+  width: 100%;
+  margin: auto;
 }
 
 .spacers { 
@@ -38,3 +40,31 @@ a:hover {
 a:visited {
   color: $theme-default-vlink-color;
 }
+
+#container {
+  max-width: 75vh;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+
+  a {
+    text-decoration: none;
+    color: $theme-default-primary;
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  li {
+    display: inline;
+    font-weight: 900;
+  }
+
+  #progressbar {
+    width: 25vh;
+  }
+}
+
