@@ -15,14 +15,15 @@ $theme-default-vlink-color:           #8cccf7;
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 1rem;
-  line-height: 1.5;
   color: $theme-default-text-color;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-default-background;
   overflow-x: hidden;
   width: 100%;
   margin: auto;
+}
+
+h1 {
+  text-shadow: 0 1px 0 rgba(238, 246, 252, 0.64);
 }
 
 .spacers { 
@@ -31,6 +32,7 @@ body {
 
 a {
   color: $theme-default-link-color;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 64%);
 }
 
 a:hover {
