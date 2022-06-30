@@ -63,16 +63,12 @@ header {
     display: inline;
   } 
 
-  ul li { 
+  li { 
     list-style: none;
     display: inline;
     font-weight: 900;
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  #progressbar {
-    width: 25vh;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 }
 
