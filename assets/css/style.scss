@@ -9,9 +9,9 @@ $theme-default-secondary:             #FFB562;
 $theme-default-trinary:               #F87474;
 $theme-default-background:            #F9F2ED;
 $theme-default-text-color:            #323232;
-$theme-default-link-color:            #FFB562;
-$theme-default-hlink-color:           #F87474;
-$theme-default-vlink-color:           #FF8862; 
+$theme-default-link-color:            #3AB0FF;
+$theme-default-hlink-color:           #8cccf7;
+$theme-default-vlink-color:           #8cccf7; 
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -53,7 +53,6 @@ header {
 
   a {
     text-decoration: none;
-    color: $theme-default-primary;
   }
 
   ul {
