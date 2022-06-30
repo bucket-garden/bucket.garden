@@ -41,12 +41,9 @@ a:visited {
   color: $theme-default-vlink-color;
 }
 
-#container {
+header {
   max-width: 75vh;
   margin: auto;
-}
-
-header {
   margin: 0;
   padding: 0;
   padding-bottom: 2rem;
