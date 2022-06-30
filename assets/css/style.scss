@@ -45,30 +45,14 @@ a:visited {
 
 header {
   max-width: 75vh;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  margin: auto;
-  padding: 0;
-  padding-bottom: 2rem;
-  display: inline;
-  
-  nav {
-    margin: auto;
-    display: inline;
-  }
 
   a {
     text-decoration: none;
   }
 
-  ul {
-    margin: auto;
-    display: inline;
-  } 
-
   li { 
-    list-style: none;
     display: inline;
+    list-style: none;
     font-weight: 900;
     padding-left: 2rem;
     padding-right: 2rem;
