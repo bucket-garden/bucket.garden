@@ -45,14 +45,16 @@ a:visited {
 
 header {
   max-width: 75vh;
+
   margin: auto;
-  margin: 0;
   padding: 0;
   padding-bottom: 2rem;
   display: inline;
   
   nav {
+    margin-top: 2rem;
     display: inline;
+    margin-bottom: 1rem;
   }
 
   a {
@@ -75,5 +77,9 @@ header {
 #progressbar {
   width: 25vh;
 
+}
+
+.status_active {
+  display: none;
 }
 
