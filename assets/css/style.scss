@@ -49,6 +49,7 @@ a:visited {
 header {
   margin: 0;
   padding: 0;
+  padding-bottom: 2rem;
 
   a {
     text-decoration: none;
@@ -56,18 +57,24 @@ header {
   }
 
   ul {
+    display: inline;
+  } 
+
+  ul li { 
     list-style: none;
     display: inline;
-  }
-
-  li {
-    display: inline;
     font-weight: 900;
-    padding: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   #progressbar {
     width: 25vh;
   }
+}
+
+#progressbar {
+  width: 25vh;
+
 }
 
