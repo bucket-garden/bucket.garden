@@ -45,6 +45,7 @@ a:visited {
 
 header {
   max-width: 75vh;
+  text-align: center;
 
   a {
     text-decoration: none;
@@ -54,8 +55,6 @@ header {
     display: inline;
     list-style: none;
     font-weight: 900;
-    padding-left: 2rem;
-    padding-right: 2rem;
   }
 }
 
