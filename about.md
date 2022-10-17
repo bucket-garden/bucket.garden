@@ -6,6 +6,10 @@
 
 <h2>How does it work?</h2>
 
+<p>More or less this is a dutch bucket method, where the buckets retain a small amount of water in each and a larger reservoir feed the chain. Below is a common generic setup diagram.</p>
+
+<img src="https://strawberryplants.org/wp-content/uploads/dutch-bucket-hydroponics-system.png"/>
+
 <p>There is one large bucket/reservoir that holds water and nutrients. A submersible pump is placed into this reservoir to pump the nutrients onto the drip/irrigation line and drop onto the plants via the drip emitters. The drip emitters are fixed to the irrigation line and are pointed to each bucket to feed the plants. </p>
 
 <h2>Choosing the Growing medium</h2>
