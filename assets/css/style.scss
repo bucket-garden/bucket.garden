@@ -22,6 +22,19 @@ body {
   margin: auto;
 }
 
+$theme-cerulean:         #3AB0FF; // Cerulean
+$theme-robin-egg-blue:   #3be5e3; // Robin Egg Blue
+$theme-midnight-blue:    #474771; // Midnight Blue
+// Indigo #7997fd
+// Purple Heart #2c0a71
+// 
+$theme-black:            #133100; // black
+
+.theme-alt {
+  color: $theme-alt-primary;
+  background-color: $theme-alt-background;
+}
+
 h1 {
   text-shadow: 0 1px 0 rgba(238, 246, 252, 0.64);
 }
