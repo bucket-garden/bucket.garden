@@ -1,5 +1,17 @@
-# this should not get a webpage 
+# bucket.garden main website repo
 
-:D
+This repo has a folder structure 
 
-hopefully
+https://plantnet.org 
+
+
+Identify plants, mushrooms, and lichen
+
+Identify and possibly remedy Plant Diseases through shared best practices openly
+
+Share processes for conducting events
+
+Share printable resources such as pamphlets 
+
+
+
